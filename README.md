@@ -3,3 +3,4 @@ This is javaScript Documentation page is part of freeCodeCamp projects of respon
 
 # visit the website:
 
+https://suliman-a.github.io/Documentation-page/
